@@ -1,0 +1,6 @@
+# An knative example
+example.com:53 {
+    log
+    errors
+    file db.example.com
+}
